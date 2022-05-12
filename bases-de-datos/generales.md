@@ -12,7 +12,7 @@ En un sistema distribuido de almacenamiento de datos no podemos garantizar consi
 
 [Más info](https://platzi.com/blog/que-es-el-teorema-cap-y-como-elegir-la-base-de-datos-para-tu-proyecto/)
 
-![teorema-cap](imagenes/teorema-cap.png)
+![teorema-cap](NatiFabbro/entrevistas-tecnicas-backend/imagenes/teorema-cap.png)
 
 
 # Qué son las bases de datos Relacionales? Cuáles son sus ventajas y desventajas?
