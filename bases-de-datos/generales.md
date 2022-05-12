@@ -8,11 +8,7 @@
 
 # Teorema CAP
 
-En un sistema distribuido de almacenamiento de datos no podemos garantizar consistencia y disponiblidad (para actualizaciones), al tiempo cuando el sistema sufre una partición (queda separado en dos o más islas). Este es el Teorema CAP, por Consistency (Consistencia), Availability (Disponibilidad) y Partition Tolerance (Tolerancia al Particionamiento).
-
-[Más info](https://platzi.com/blog/que-es-el-teorema-cap-y-como-elegir-la-base-de-datos-para-tu-proyecto/)
-
-![teorema-cap](NatiFabbro/entrevistas-tecnicas-backend/imagenes/teorema-cap.png)
+En un sistema distribuido de almacenamiento de datos no podemos garantizar consistencia y disponiblidad (para actualizaciones), al tiempo cuando el sistema sufre una partición (queda separado en dos o más islas). Este es el [Teorema CAP](https://platzi.com/blog/que-es-el-teorema-cap-y-como-elegir-la-base-de-datos-para-tu-proyecto/), por Consistency (Consistencia), Availability (Disponibilidad) y Partition Tolerance (Tolerancia al Particionamiento).
 
 
 # Qué son las bases de datos Relacionales? Cuáles son sus ventajas y desventajas?
