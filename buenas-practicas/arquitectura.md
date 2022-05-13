@@ -6,6 +6,7 @@
 
 # Clean architecture (Arquitectura limpia)
 (onion/hexagonal)
+https://www.baeldung.com/java-clean-code 
 
 # Qué es un microservicio?
 
